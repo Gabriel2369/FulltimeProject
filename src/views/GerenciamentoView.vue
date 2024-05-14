@@ -6,38 +6,37 @@
   
       <div class="container ">
         <div class="row">
-          <!-- ID -->
           <div class="col-md">
             <div class="column ">
               <p class="text-inside">ID</p>
             </div>
           </div>
-          <!-- Motorista -->
+
           <div class="col-md">
             <div class="column">
               <p class="text-inside">Motorista</p>
             </div>
           </div>
-          <!-- Destino -->
+ 
           <div class="col-md">
             <div class="column">
               <p class="text-inside">Destino</p>
             </div>
           </div>
           <div class="col-md"></div>
-          <!-- Rotas -->
+  
           <div class="col-md">
             <div class="column">
               <p class="text-inside">Rotas</p>
             </div>
           </div>
-          <!-- Status -->
+   
           <div class="col-md">
             <div class="column">
               <p class="text-inside">Status</p>
             </div>
           </div>
-          <!-- Observação -->
+   
           <div class="col-md">
             <div class="column">
               <p class="text-inside">Observação</p>
@@ -45,80 +44,77 @@
           </div>
         </div>
         <div class="row ">
-          <!-- ID -->
+        
           <div class="column-item col-md  ">
             <div class="">
               <p class="text-inside">#RI98</p>
             </div>
           </div>
-          <!-- Motorista -->
+       
           <div class="column-item col-md  ">
             <div class="">
               <p class="text-inside">ROBERTO</p>
             </div>
           </div>
-          <!-- Destino -->
+  
           <div class="column-item col-md  ">
             <div class="">
               <p class="text-inside">SÃO PAULO</p>
             </div>
           </div>
-          <!-- Coluna vazia para ocupar espaço -->
+
           <div class="column-item col-md "></div>
-          <!-- Rotas -->
+
           <div class="column-item col-md  ">
             <div class="d-flex justify-content-center align-items-center">
                 <button class="btn btn-danger ">ROTAS</button>
             </div>
           </div>
-          <!-- Status -->
+
           <div class="column-item col-md  ">
             <div class="">
               <p class="text-inside">ENTREGUE</p>
             </div>
           </div>
-          <!-- Observação -->
+
           <div class="column-item col-md  ">
             <div class="">
               <p class="text-inside">1 HORA DE ATRASO</p>
             </div>
           </div>
         </div>
-        <!-- Terceira linha da tabela -->
+
         <div class="row">
-          <!-- ID -->
           <div class="column-item col-md bg-secondary ">
             <div class="">
               <p class="text-inside">#RI42</p>
             </div>
           </div>
-          <!-- Motorista -->
+
           <div class="column-item col-md bg-secondary ">
             <div class="">
               <p class="text-inside">FELIPE</p>
             </div>
           </div>
-          <!-- Destino -->
           <div class="column-item col-md  bg-secondary">
             <div class="">
               <p class="text-inside">MARÍLIA</p>
             </div>
           </div>
-          <!-- Coluna vazia para ocupar espaço -->
+
           <div class="column-item col-md bg-secondary"></div>
-          <!-- Rotas -->
           <div class="column-item col-md bg-secondary">
             <div class="d-flex justify-content-center align-items-center">
                 <button class="btn btn-danger">ROTAS</button>
             </div>
           </div>
-          <!-- Status -->
+
           <div class="column-item col-md bg-secondary ">
             <div class="">
               <p class="text-inside">ENTREGUE</p>
             </div>
           </div>
-          <!-- Observação -->
+
           <div class="column-item col-md bg-secondary ">
             <div class="">
               <p class="text-inside">PRAZO CUMPRIDO</p>
@@ -126,39 +122,38 @@
           </div>
         </div>
         <div class="row">
-          <!-- ID -->
           <div class="column-item col-md  ">
             <div class="">
               <p class="text-inside">#RI17</p>
             </div>
           </div>
-          <!-- Motorista -->
+
           <div class="column-item col-md  ">
             <div class="">
               <p class="text-inside">NICHOLAS</p>
             </div>
           </div>
-          <!-- Destino -->
+
           <div class="column-item col-md  ">
             <div class="">
               <p class="text-inside">RIO PRETO</p>
             </div>
           </div>
-          <!-- Coluna vazia para ocupar espaço -->
+
           <div class="column-item col-md "></div>
-          <!-- Rotas -->
+
           <div class="column-item col-md  ">
             <div class="d-flex justify-content-center align-items-center">
                 <button class="btn btn-danger">ROTAS</button>
             </div>
           </div>
-          <!-- Status -->
+
           <div class="column-item col-md  ">
             <div class="">
               <p class="text-inside">EM TRANSITO</p>
             </div>
           </div>
-          <!-- Observação -->
+
           <div class="column-item col-md  ">
             <div class="">
               <p class="text-inside">1 DIA DE ATRASO</p>

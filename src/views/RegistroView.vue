@@ -44,15 +44,15 @@
 .btn-red {
       background-color: #ED1C26 !important;
       color: white !important;
-      margin-top: 20px; /* Margem superior de 20 pixels */
+      margin-top: 20px; 
     }
 
  .card-border {
-      border: 1px solid red !important; /* Bordas vermelhas */
-      border-radius: 10px; /* Borda arredondada */
+      border: 1px solid red !important;
+      border-radius: 10px; 
     }
     .input-border {
-      border: 1px solid red !important; /* Bordas vermelhas */
-      border-radius: 5px; /* Borda arredondada */
+      border: 1px solid red !important; 
+      border-radius: 5px; 
     }
 </style>

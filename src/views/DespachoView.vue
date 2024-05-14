@@ -11,7 +11,7 @@
             <p class="text-inside">Veículos</p>
           </div>
         </div>
-        <div class="col-md"></div> <!-- Coluna vazia para ocupar espaço -->
+        <div class="col-md"></div> 
         <div class="col-md">
           <div class="column">
             <p class="text-inside">Capacidade</p>
@@ -30,7 +30,7 @@
             <H3>CARRO</H3>
           </div>
         </div>
-        <div class="col-md"></div> <!-- Coluna vazia para ocupar espaço -->
+        <div class="col-md"></div> 
         <div class="col-md ">
           <div class="capacity">
             <p class="text-inside ">500Kg</p>
@@ -49,7 +49,7 @@
             <H3>CARRO</H3>
           </div>
         </div>
-        <div class="col-md"></div> <!-- Coluna vazia para ocupar espaço -->
+        <div class="col-md"></div> 
         <div class="col-md ">
           <div class="capacity">
             <p class="text-inside ">500Kg</p>
@@ -68,7 +68,7 @@
             <H3>CARRO</H3>
           </div>
         </div>
-        <div class="col-md"></div> <!-- Coluna vazia para ocupar espaço -->
+        <div class="col-md"></div> 
         <div class="col-md ">
           <div class="capacity">
             <p class="text-inside ">500Kg</p>
@@ -87,7 +87,4 @@
 </template>
 
 <style>
-
-
-
 </style>
